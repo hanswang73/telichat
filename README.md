@@ -13,6 +13,8 @@ For more information, see the official website: **https://telichat.io**
 
 **Note**: This repository only contains public sample documents. The core source code of the TeliChat product itself is not included in this repository.
 
+---
+
 **TeliChat** 是一个代码优先的白盒对话智能体开发框架，适用于构建面向客户的复杂业务对话系统。
 
 它面向的**核心问题**是：如何在复杂业务逻辑、可靠输出、自然交互和快速响应之间取得平衡。
