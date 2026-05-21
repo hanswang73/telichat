@@ -1,17 +1,17 @@
-*TeliChat* is a code-first, white-box conversational agent development framework, suitable for building complex customer-facing business conversational systems.
+<u>*TeliChat*</u> is a code-first, white-box conversational agent development framework, suitable for building complex customer-facing business conversational systems.
 
-The *core issue* it faces is: how to strike a balance between complex business logic, reliable output, natural interaction and fast response.
+The <u>*core issue*</u> it faces is: how to strike a balance between complex business logic, reliable output, natural interaction and fast response.
 
 TeliChat combines:
 
-* *ChatTree*: used to express deterministic interaction logic
-* *InfoItem*: used to express structured conversation status
-* *Python code*: used to process business logic, conditional judgments and tool calls
-* *LLM*: used for natural language understanding, information extraction and natural language generation
+* <u>*ChatTree*</u>: used to express deterministic interaction logic
+* <u>*InfoItem*</u>: used to express structured conversation status
+* <u>*Python Code*</u>: used to process business logic, conditional judgments and tool calls
+* <u>*LLM*</u>: used for natural language understanding, information extraction and natural language generation
 
 For more information, see the official website: *https://telichat.io*
 
-*Note*: This repository only contains public sample documents. The core source code of the TeliChat product itself is not included in this repository.
+<u>*Note*</u>: This repository only contains public sample documents. The core source code of the TeliChat product itself is not included in this repository.
 
 ---
 
