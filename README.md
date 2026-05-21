@@ -15,6 +15,8 @@ Quick start: **https://telichat.io/zh-Hans/docs/next/quick_start**
 
 For more information, see the official website: **https://telichat.io**
 
+Example code in this repository is licensed under MIT.
+
 ---
 <ins>**注意**</ins>：本仓库仅包含公开示例文档，TeliChat 产品本身的核心源代码不包含在本仓库中。
 
@@ -32,3 +34,5 @@ TeliChat 结合了：
 快速开始：**https://telichat.io/zh-Hans/docs/next/quick_start**
 
 更多参见官网：**https://telichat.io**
+
+此存储库中的示例代码已获得 MIT 许可
