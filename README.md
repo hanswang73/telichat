@@ -11,7 +11,7 @@ TeliChat combines:
 * <ins>**Python Code**</ins>: used to process business logic, conditional judgments and tool calls
 * <ins>**LLM**</ins>: used for natural language understanding, information extraction and natural language generation
 
-Quick start: **https://telichat.io/zh-Hans/docs/next/quick_start**
+Quick start: **https://telichat.io/docs/next/quick_start**
 
 For more information, see the official website: **https://telichat.io**
 
@@ -33,6 +33,6 @@ TeliChat 结合了：
 
 快速开始：**https://telichat.io/zh-Hans/docs/next/quick_start**
 
-更多参见官网：**https://telichat.io**
+更多参见官网：**https://telichat.io/zh-Hans**
 
 此存储库中的示例代码已获得 MIT 许可
