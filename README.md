@@ -1,15 +1,14 @@
-# Notice
+TeliChat 是一个代码优先的白盒对话智能体开发框架，适用于构建面向客户的复杂业务对话系统。
 
-This repository only contains public examples of TeliChat.
+它面向的核心问题是：如何在复杂业务逻辑、可靠输出、自然交互和快速响应之间取得平衡。
 
-The TeliChat production system, backend implementation, business logic and internal models remain proprietary.
+TeliChat 结合了：
 
-See: https://telichat.io
+* 对话树：用于表达确定性的交互逻辑
+* 信息项：用于表达结构化的对话状态
+* Python 代码：用于处理业务逻辑、条件判断和工具调用
+* 大语言模型：用于自然语言理解、信息抽取和自然语言生成
 
-# 说明
+更多参见官网：https://telichat.io
 
-该存储库仅包含 TeliChat 的公开示例。
-
-TeliChat 生产系统、后端实现、业务逻辑和内部模型仍然是专有的。
-
-请参阅：https://telichat.io
+注意：本仓库仅包含公开示例文档，TeliChat 产品本身的核心源代码不包含在本仓库中。
