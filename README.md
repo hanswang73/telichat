@@ -12,6 +12,7 @@ TeliChat combines:
 * <ins>**LLM**</ins>: used for natural language understanding, information extraction and natural language generation
 
 Quick start: **https://telichat.io/zh-Hans/docs/next/quick_start**
+
 For more information, see the official website: **https://telichat.io**
 
 ---
@@ -29,4 +30,5 @@ TeliChat 结合了：
 * <ins>**大语言模型**</ins>：用于自然语言理解、信息抽取和自然语言生成
 
 快速开始：**https://telichat.io/zh-Hans/docs/next/quick_start**
+
 更多参见官网：**https://telichat.io**
