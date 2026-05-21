@@ -1,4 +1,4 @@
-<ins>**Note**</ins>: This repository only contains public sample documents. The core source code of the TeliChat product itself is not included in this repository.
+*<ins>**Note**</ins>: This repository only contains public sample documents. The core source code of the TeliChat product itself is not included in this repository.*
 
 <ins>**TeliChat**</ins> is a code-first, white-box conversational agent development framework, suitable for building complex customer-facing business conversational systems.
 
@@ -18,7 +18,7 @@ For more information, see the official website: **https://telichat.io**
 Example code in this repository is licensed under MIT.
 
 ---
-<ins>**注意**</ins>：本仓库仅包含公开示例文档，TeliChat 产品本身的核心源代码不包含在本仓库中。
+*<ins>**注意**</ins>：本仓库仅包含公开示例文档，TeliChat 产品本身的核心源代码不包含在本仓库中。*
 
 <ins>**TeliChat**</ins> 是一个代码优先的白盒对话智能体开发框架，适用于构建面向客户的复杂业务对话系统。
 
