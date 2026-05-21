@@ -1,4 +1,4 @@
-<u>*TeliChat*</u> is a code-first, white-box conversational agent development framework, suitable for building complex customer-facing business conversational systems.
+<ins>**TeliChat**</ins> is a code-first, white-box conversational agent development framework, suitable for building complex customer-facing business conversational systems.
 
 The <u>*core issue*</u> it faces is: how to strike a balance between complex business logic, reliable output, natural interaction and fast response.
 
